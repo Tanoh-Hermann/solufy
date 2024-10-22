@@ -1,0 +1,9 @@
+1592058669
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1514:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:116:"cpt363-intermediate/ux-techniques-guide/how-to-design-products-for-how-people-think-learn-and-feel/conceptual-models";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:16:"Conceptual Model";}s:8:"markdown";s:748:"Conceptual Model  
+_Conceptual models involve three views of a system; the user's mental model, the designer's model, and the system image._
+
+*   [Affordances Design](http://www.jnd.org/dn.mss/affordances_and.html)  
+*   [Human Centered Design & The 6 Fundamental Principles of Interaction Between Products and Users](https://uxdesign.cc/human-centered-design-the-6-fundamental-principles-of-interaction-between-products-and-users-7343734b38a1#.bplbprmd5)
+*   [IBM Design: The three models - User](http://www-01.ibm.com/software/ucd/designconcepts/threemodels/user.html)  
+*   [The Secret to Designing an Intuitive UX: Match the Mental Model to the Conceptual Model](http://www.inspireux.com/2010/04/16/secret-designing-intuitive-user-experience/)
+";}s:7:"storage";a:6:{s:3:"key";s:116:"cpt363-intermediate/ux-techniques-guide/how-to-design-products-for-how-people-think-learn-and-feel/conceptual-models";s:11:"storage_key";s:125:"03.cpt363-intermediate/04.ux-techniques-guide/06.how-to-design-products-for-how-people-think-learn-and-feel/conceptual-models";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591974065;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"a7b1597ab37c1aff3f6d94f8948ca94d";}}}

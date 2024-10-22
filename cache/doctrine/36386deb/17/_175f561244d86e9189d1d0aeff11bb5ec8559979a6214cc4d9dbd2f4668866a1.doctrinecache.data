@@ -1,0 +1,8 @@
+1592058653
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1363:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:110:"canada/ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/scenario-based-design";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:58:"Scenario-based Design (also known as Task-Centered Design)";}s:8:"markdown";s:573:"Scenario-based Design (also known as Task-Centered Design)  
+_Another form of user-centered design that relies on stories of user interaction as the source of guidance for design requirements._
+
+*   [Five Reasons for Scenario-Based Design (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.5310&amp;amp;amp;amp;rep=rep1&amp;amp;amp;amp;type=pdf)  
+*   [Scenarios](http://uiaccess.com/accessucd/scenarios.html)  
+*   [Task-Centered User Interface Design - A Practical Introduction (incl. Amended Version)](http://web.cs.dal.ca/%7Ejamie/TCUID/readme.html)  
+";}s:7:"storage";a:6:{s:3:"key";s:110:"canada/ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/scenario-based-design";s:11:"storage_key";s:119:"09.Canada/08.ux-techniques-guide/02.what-does-a-holistic-user-experience-design-process-look-like/scenario-based-design";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591985870;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"96bb132c93c78c97cb0e438581e1ecc1";}}}

@@ -1,0 +1,3 @@
+1592058665
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":573:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:24:"cpt363-basic/headerimage";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:12:"Header Image";s:7:"visible";b:0;s:8:"routable";b:0;}s:8:"markdown";s:56:"File to be used for the header image above the menubar.
+";}s:7:"storage";a:6:{s:3:"key";s:24:"cpt363-basic/headerimage";s:11:"storage_key";s:27:"02.cpt363-basic/headerimage";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1591974062;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1583505710;}}s:8:"checksum";s:32:"f013bca6533c9e22e026b51f3e4e084a";}}}

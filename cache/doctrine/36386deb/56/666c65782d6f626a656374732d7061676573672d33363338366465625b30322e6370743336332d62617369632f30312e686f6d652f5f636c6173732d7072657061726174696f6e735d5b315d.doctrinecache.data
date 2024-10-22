@@ -1,0 +1,13 @@
+1592058666
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1094:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:37:"cpt363-basic/home/_class-preparations";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:18:"Class Preparations";s:9:"published";b:1;}s:8:"markdown";s:551:"## Jun 6th Class Preparations
+
+### Required Reading
+[embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]
+
+[button url="https://sso.canvaslms.com/courses/1413912/quizzes/3212425" target="_blank" label="Required Reading Quiz" type="primary" classes="external-link"] 
+
+### Slides to be Discussed
+[Usability Testing](../../presentations/module-05?target=_blank)
+
+Did you attend this class? [Share your one-minute summary](https://sso.canvaslms.com/courses/1413912/assignments/9519522) before midnight, the day of class.
+";}s:7:"storage";a:6:{s:3:"key";s:37:"cpt363-basic/home/_class-preparations";s:11:"storage_key";s:43:"02.cpt363-basic/01.home/_class-preparations";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591974060;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505710;}}s:8:"checksum";s:32:"e7ecf5d8a649a22e3c55bf1c9578580c";}}}

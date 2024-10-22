@@ -1,0 +1,27 @@
+1592058673
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1911:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"france/home/module-08";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:23:"Week 8 (Jun 27 - Jul 3)";s:9:"published";b:0;s:4:"date";s:16:"27-06-2018 00:00";s:19:"hide_from_post_list";b:0;s:23:"hide_git_sync_repo_link";b:1;s:19:"header_image_credit";s:25:"Nicholas Wang, Flickr.com";s:23:"header_image_creditlink";s:55:"https://www.flickr.com/photos/cloneofsnake/13966760787/";s:21:"header_image_alt_text";s:24:"Interview in coffee shop";}s:8:"markdown";s:1094:"## How to understand and communicate people's needs and behaviours?
+[Needsfinding](../../presentations/module-08#/module-08-4?target=_blank)  
+[User Models](../../presentations/module-08#/module-08-5?target=_blank)  
+[Stories of Usage](../../presentations/module-08#/module-08-6?target=_blank)  
+
+===
+
+## **How to understand and communicate people's needs and behaviours?**
+
+### Summaries and Questions  
+[Jun 27 Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519519)
+
+### Presented Slides  
+[presentation="cpt363-advanced/presentations/module-08"]
+
+### Assignments
+[User Research Report](https://sso.canvaslms.com/courses/1413912/assignments/9519534)  
+[Informed Consent Materials](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Informed%20Consent)  
+
+### Supplemental Materials  
+[What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
+[iframe url="https://player.vimeo.com/video/7099570"]
+
+### Required Reading  
+[embedly url="http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/"]
+";}s:7:"storage";a:6:{s:3:"key";s:21:"france/home/module-08";s:11:"storage_key";s:27:"05.France/01.home/module-08";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591974000;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505712;}}s:8:"checksum";s:32:"f6ce66cd34f8a3a1cdcceae451719e94";}}}
