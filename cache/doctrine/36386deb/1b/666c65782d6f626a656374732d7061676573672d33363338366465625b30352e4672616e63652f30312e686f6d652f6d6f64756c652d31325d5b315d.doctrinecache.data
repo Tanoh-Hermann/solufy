@@ -1,0 +1,7 @@
+1592058673
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":953:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"france/home/module-12";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:21:"Week 12 (Jul 25 - 31)";s:9:"published";b:0;s:4:"date";s:16:"25-07-2018 00:00";s:19:"hide_from_post_list";b:0;s:23:"hide_git_sync_repo_link";b:1;s:19:"header_image_credit";s:30:"Lars Kristian Flem, Flickr.com";s:23:"header_image_creditlink";s:51:"https://www.flickr.com/photos/larskflem/3343696373/";s:21:"header_image_alt_text";s:52:"Multiple people at a table sketching on PostIt notes";}s:8:"markdown";s:110:"Instructor design reviews in TBD, no regular class.
+
+===
+
+Instructor design reviews in TBD, no regular class.
+";}s:7:"storage";a:6:{s:3:"key";s:21:"france/home/module-12";s:11:"storage_key";s:27:"05.France/01.home/module-12";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591974001;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505712;}}s:8:"checksum";s:32:"41109c17fba7e629c001db5b24f9b57a";}}}

@@ -1,0 +1,35 @@
+1592058649
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":3114:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:90:"canada/shop/trainings/professional-trainings/transport-logistics-customs/import-management";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:13:{s:5:"title";s:17:"Import management";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;s:12:"body_classes";s:9:"fullwidth";s:18:"twittercardoptions";s:7:"summary";s:11:"orgaenabled";b:1;s:4:"orga";a:1:{s:11:"ratingValue";d:2.5;}s:14:"productenabled";b:1;s:7:"product";a:1:{s:11:"ratingValue";d:2.5;}s:7:"content";a:2:{s:5:"items";s:14:"@self.children";s:5:"order";a:2:{s:2:"by";s:5:"title";s:3:"dir";s:3:"asc";}}s:11:"media_order";s:120:"hamburg-Port_Julius-Silver_Pixabay_1280.jpg,container_Markus-Distelrath_Pixabay_1280.jpg,Portique-à_containers_1280.jpg";s:11:"page-inject";a:2:{s:6:"active";b:1;s:17:"processed_content";b:1;}}s:8:"markdown";s:1764:"Crossing borders makes shipping processes complex. It is essential to ensure that you are in compliance with the commercial regulations of the different countries, while being assured that your sensitive information is protected, between the moment you start to create your shipment and the delivery via transit.
+
+[ui-accordion independent=true open=none][ui-accordion-item title="Target audience"]
+
+Crossing borders makes shipping processes complex. It is essential to ensure that you are in compliance with the commercial regulations of the different countries, while being assured that your sensitive information is protected, between the moment you start to create your shipment and the delivery via transit.
+
+[/ui-accordion-item][/ui-accordion]
+
+[ui-accordion independent=true open=none][ui-accordion-item title="Training aims"]
+
+Simplifying your shipments and monitoring your imports and exports allows you to:
+- to shorten the shipping and customs clearance time.
+- save time and avoid problems en route.
+
+[/ui-accordion-item][/ui-accordion]
+
+[ui-accordion independent=true open=none][ui-accordion-item title="Program"]
+
+Proactive import and export management allows you to:
+- understand and comply with commercial regulations,
+- determine the cost of international shipments from the start.
+- estimate the cost of transport, duties and taxes
+- search for entities subject to restriction or countries under embargo,
+- search for the harmonized tariff codes of your products
+- check the conformity of the import and detect the export licenses
+- access the library of international forms such as commercial invoices or the certificate of origin
+- etc.,
+Register to receive all the elements necessary for your activity.
+
+[/ui-accordion-item][/ui-accordion]
+
+
+
+";}s:7:"storage";a:6:{s:3:"key";s:90:"canada/shop/trainings/professional-trainings/transport-logistics-customs/import-management";s:11:"storage_key";s:108:"09.Canada/02.shop/03.trainings/01.professional-trainings/02.transport-logistics-customs/01.import-management";s:8:"template";s:15:"snipcart_detail";s:17:"storage_timestamp";i:1591985862;s:8:"markdown";a:1:{s:0:"";a:1:{s:15:"snipcart_detail";i:1591142232;}}s:8:"checksum";s:32:"7b6de9b4c682c00b942baf15b0d16324";}}}
