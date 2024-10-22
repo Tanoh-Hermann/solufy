@@ -1,0 +1,6 @@
+1592058673
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":923:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"france/home/module-09";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:19:"Week 9 (Jul 4 - 10)";s:9:"published";b:0;s:4:"date";s:16:"04-07-2018 00:00";s:19:"hide_from_post_list";b:0;s:23:"hide_git_sync_repo_link";b:1;s:19:"header_image_credit";s:27:"Rosenfeld Media, Flickr.com";s:23:"header_image_creditlink";s:56:"https://www.flickr.com/photos/rosenfeldmedia/9203760174/";s:21:"header_image_alt_text";s:25:"A sample UX questionnaire";}s:8:"markdown";s:107:"Instructor user research review meetings in TBD, no regular class.  
+
+## Required Reading  
+None assigned.
+";}s:7:"storage";a:6:{s:3:"key";s:21:"france/home/module-09";s:11:"storage_key";s:27:"05.France/01.home/module-09";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591974000;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505712;}}s:8:"checksum";s:32:"e4cda5a8b30d3410a04357de1e22336d";}}}

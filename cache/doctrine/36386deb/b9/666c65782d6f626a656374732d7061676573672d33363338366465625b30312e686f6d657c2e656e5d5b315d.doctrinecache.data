@@ -1,0 +1,15 @@
+1592058840
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1572:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:4:"Home";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:0;s:23:"hide_git_sync_repo_link";b:0;s:10:"card_width";s:1:"3";s:7:"content";a:1:{s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:3:"asc";}}}s:8:"markdown";s:825:"[owl-carousel items=1 margin=10 loop=true autoplay=true autoplayHoverPause=true nav=true]
+![](/images/leisure/beach-84533_1280.jpg?cropZoom=1024,500)
+![](/images/leisure/summer_Brenden-Mitchell_Pixabay_1280.jpg?cropZoom=1024,500)
+![](/images/leisure/fashion_272447_1280x857.jpg?cropZoom=1024,500)
+[/owl-carousel]
+
+## Welcome!
+
+This is an **Open Course Hub** with **multiple courses** (i.e. subsites) within one Grav install.
+
+Each course can have its own header image, sidebar and footer - and these items can also be shared across all courses. Using the [Page Inject Plugin](https://github.com/getgrav/grav-plugin-page-inject), content can also be shared between one or more courses.
+
+Want to learn more? Visit the Open Course Hub documentation at [learn.hibbittsdesign.org](https://learn.hibbittsdesign.org/opencoursehub).
+";}s:7:"storage";a:8:{s:3:"key";s:4:"home";s:11:"storage_key";s:11:"01.home|.en";s:8:"template";s:11:"subsitelist";s:17:"storage_timestamp";i:1592000898;s:8:"markdown";a:3:{s:2:"en";a:1:{s:11:"subsitelist";i:1590699802;}s:2:"es";a:1:{s:11:"subsitelist";i:1591998728;}s:2:"fr";a:1:{s:11:"subsitelist";i:1592000898;}}s:8:"checksum";s:32:"71acddc03ef0ca5d220313afffe04e50";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}}

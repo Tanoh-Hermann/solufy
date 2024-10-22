@@ -1,0 +1,31 @@
+1592058646
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1952:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"canada/home/module-02";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:20:"Week 2 (May 16 - 22)";s:9:"published";b:1;s:4:"date";s:16:"16-05-2018 00:00";s:19:"hide_from_post_list";b:0;s:23:"hide_git_sync_repo_link";b:1;s:19:"header_image_credit";s:22:"CannedTuna, Flickr.com";s:23:"header_image_creditlink";s:52:"https://www.flickr.com/photos/cannedtuna/4853380320/";s:21:"header_image_alt_text";s:24:"Information architecture";}s:8:"markdown";s:1144:"## What does a holistic user experience design process look like?
+[Software Development Processes](../../presentations/module-02#/module-02-4?target=_blank)    
+[User Experience Design Processes](../../presentations/module-02#/module-02-5?target=_blank)    
+[Our Design Process (aka Toolkit)](../../presentations/module-02#/module-02-6?target=_blank)    
+
+===
+
+## **What does a holistic user experience design process look like?**
+
+### Summaries and Questions  
+[May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519525)
+
+### Presented Slides  
+[presentation="cpt363-advanced/presentations/module-02"]
+
+### CPT-363 UX Design Process/Toolkit
+![CPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
+
+### Handouts
+[Product Reaction Cards](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Product%20Reaction%20Cards)  
+
+### Quick Quiz
+[h5p id="213956"]
+
+### Assignments
+[Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
+
+### Recommended Reading  
+[embedly url="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b"]
+";}s:7:"storage";a:6:{s:3:"key";s:21:"canada/home/module-02";s:11:"storage_key";s:27:"09.Canada/01.home/module-02";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591985855;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505714;}}s:8:"checksum";s:32:"31399caf448cb3ae797adcd45266695b";}}}

@@ -1,0 +1,6 @@
+1592058657
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1131:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:76:"cote-d-ivoire/shop/t-shirts/formation-manager-une-equipe-niveau-1/_programme";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:9:"Programme";s:12:"body_classes";s:7:"modular";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;s:11:"permissions";a:1:{s:7:"inherit";b:1;}}s:8:"markdown";s:272:"# **Le programme de la formation**
+
+## **Avant le présentiel**
+
+[ui-accordion independent=true open=none][ui-accordion-item title="1 - Définir les objectifs et clarifier les règles du jeu communes pour orienter l'action de l'équipe"][/UI-accordion-item][/ui-accordion]";}s:7:"storage";a:7:{s:3:"key";s:76:"cote-d-ivoire/shop/t-shirts/formation-manager-une-equipe-niveau-1/_programme";s:11:"storage_key";s:91:"04.Cote-d-Ivoire/02.shop/01.t-shirts/01.formation-manager-une-equipe-niveau-1/02._Programme";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1591974035;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1590712484;}}s:8:"children";a:1:{s:18:"_UI-accordion-item";b:0;}s:8:"checksum";s:32:"f78c06ba2946e1b32517fcc1bcc9718d";}}}

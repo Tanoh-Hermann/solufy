@@ -1,0 +1,26 @@
+1592058666
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1911:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:27:"cpt363-basic/home/module-01";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:19:"Week 1 (May 9 - 15)";s:9:"published";b:1;s:4:"date";s:16:"09-05-2018 00:00";s:21:"header_image_alt_text";s:23:"SFU Academic Quadrangle";s:19:"header_image_credit";s:28:"Julian Schüngel, Flickr.com";s:23:"header_image_creditlink";s:52:"https://www.flickr.com/photos/medevac71/10610701655/";s:19:"hide_from_post_list";b:0;s:13:"continue_link";b:1;s:23:"hide_git_sync_repo_link";b:1;}s:8:"markdown";s:1056:"## What is usability and user experience design?
+[HCI, UI, IA, IxD, and UX](../../presentations/module-01?target=_blank#/module-01-4)  
+[Design Thinking](../../presentations/module-01?target=_blank#/module-01-5?target=_blank)  
+[Usability and UCD](../../presentations/module-01?target=_blank#/module-01-6?target=_blank)  
+
+===
+
+## **What is usability and user experience design?**
+
+### Summaries and Questions  
+[May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519517)
+
+### Presented Slides  
+[presentation="cpt363-basic/presentations/module-01"]
+
+### Supplemental Materials  
+[Elements of User Experience by Jesse James Garrett](https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf)  
+[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
+
+### Handouts
+[Course Overview](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Course%20Overview)  
+
+### Recommended Reading  
+[embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]
+";}s:7:"storage";a:6:{s:3:"key";s:27:"cpt363-basic/home/module-01";s:11:"storage_key";s:33:"02.cpt363-basic/01.home/module-01";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591974062;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505710;}}s:8:"checksum";s:32:"b1312405f1b31dd7eddbaffe26f8803a";}}}

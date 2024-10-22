@@ -1,0 +1,54 @@
+1592058648
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1198:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:39:"canada/presentations/placeholder-slides";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:24:"Placeholder Slides Title";}s:8:"markdown";s:648:"[.text: alignment(center)]
+
+# CPT 363
+
+### Placeholder Slides
+
+> “A work in progress. And the possibilities are endless.”
+-- Elizabeth Eulberg
+
+---
+
+[.background-color: #FFFFFF]
+
+![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
+
+---
+
+[youtube]https://www.youtube.com/watch?v=Nj6x01wg2WA[/youtube]
+
+---
+
+# Topics to Explore
+1. Topic One  
+2. Topic Two   
+3. Topic Three  
+
+---
+
+# Placeholder Slides
+
+### Topic One
+
+---
+
+# Placeholder Slides
+
+### Topic Two
+
+---
+
+# Placeholder Slides
+
+### Topic Three
+
+---
+
+# Summary
+1. Topic One  
+2. Topic Two   
+3. Topic Three  
+
+---
+";}s:7:"storage";a:6:{s:3:"key";s:39:"canada/presentations/placeholder-slides";s:11:"storage_key";s:42:"09.Canada/presentations/placeholder-slides";s:8:"template";s:12:"presentation";s:17:"storage_timestamp";i:1591985880;s:8:"markdown";a:1:{s:0:"";a:1:{s:12:"presentation";i:1583505712;}}s:8:"checksum";s:32:"ec628982f5251293464042362239e146";}}}

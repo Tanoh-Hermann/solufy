@@ -1,0 +1,5 @@
+1592058666
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":847:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:38:"cpt363-basic/home/_important-reminders";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:19:"Important Reminders";s:11:"alert_style";s:15:"alert-secondary";s:9:"published";b:1;s:7:"visible";b:0;}s:8:"markdown";s:238:"## Important Reminders
+* [Journey Map](https://sso.canvaslms.com/courses/1413912/assignments/9519531) assignment due Jun 12th
+* [Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528) assignment due Aug 3rd
+";}s:7:"storage";a:6:{s:3:"key";s:38:"cpt363-basic/home/_important-reminders";s:11:"storage_key";s:44:"02.cpt363-basic/01.home/_important-reminders";s:8:"template";s:5:"alert";s:17:"storage_timestamp";i:1591974060;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"alert";i:1583505710;}}s:8:"checksum";s:32:"3ed4ec74ca170d44b801d82cb04d169c";}}}
