@@ -1,0 +1,4 @@
+1592058650
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":804:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:56:"canada/trainings/training-catalog/management/_leadership";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:10:"Leadership";s:12:"body_classes";s:7:"modular";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;}s:8:"markdown";s:77:"Your page content goes here.
+
+[plugin:content-inject](/cote-d-ivoire/gallery)";}s:7:"storage";a:6:{s:3:"key";s:56:"canada/trainings/training-catalog/management/_leadership";s:11:"storage_key";s:68:"09.Canada/03.trainings/01.training-catalog/01.management/_Leadership";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1591985865;s:8:"markdown";a:1:{s:0:"";a:2:{s:7:"default";i:1591051414;s:4:"item";i:1591051204;}}s:8:"checksum";s:32:"bc3baef53665fb7bd743fff48d12036d";}}}

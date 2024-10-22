@@ -1,0 +1,8 @@
+1592058662
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1170:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:102:"cote-d-ivoire/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/design-systems";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:14:"Design Systems";}s:8:"markdown";s:448:"Design Systems  
+_A design system is a collection of reusable components, which can be used to build any number of applications._
+
+*   [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
+*   [On the Current State of Design Systems in UX](https://medium.com/innovatemap-current/on-the-current-state-of-design-systems-in-ux-4cd0aa1fad71)
+*   [The User Experience of Design Systems](https://runemadsen.com/talks/uxcampcph/)
+";}s:7:"storage";a:6:{s:3:"key";s:102:"cote-d-ivoire/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/design-systems";s:11:"storage_key";s:111:"04.Cote-d-Ivoire/08.ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/design-systems";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591974051;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"22d1e6048085b96e5e574a6fd819923a";}}}

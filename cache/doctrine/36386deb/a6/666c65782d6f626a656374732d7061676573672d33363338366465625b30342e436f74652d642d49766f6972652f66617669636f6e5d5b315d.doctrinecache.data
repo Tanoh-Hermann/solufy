@@ -1,0 +1,3 @@
+1592058654
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":530:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"cote-d-ivoire/favicon";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:7:"Favicon";s:7:"visible";b:0;s:8:"routable";b:0;}s:8:"markdown";s:28:"File to be used as Favicon.
+";}s:7:"storage";a:6:{s:3:"key";s:21:"cote-d-ivoire/favicon";s:11:"storage_key";s:24:"04.Cote-d-Ivoire/favicon";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1591974038;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1583505712;}}s:8:"checksum";s:32:"0079e657ac3df1f9e5a3b2c559d7987a";}}}

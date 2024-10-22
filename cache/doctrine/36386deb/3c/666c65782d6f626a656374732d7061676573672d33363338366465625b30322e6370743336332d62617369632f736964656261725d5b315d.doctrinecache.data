@@ -1,0 +1,23 @@
+1592058667
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1197:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:20:"cpt363-basic/sidebar";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:7:"Sidebar";s:8:"routable";b:0;s:7:"visible";b:0;s:12:"cache_enable";b:0;}s:8:"markdown";s:673:"## Course Facilitator
+Some Name  
+<somename@somewhere.edu>   
+
+In-person office hours:  
+Wednesdays 2:30-4:00pm  
+TBD  
+
+Virtual office hours chat:  
+Mondays 12:00-1:30pm   
+Fridays 12:00-1:00pm
+
+## Canvas LMS
+[Calendar](https://sso.canvaslms.com/calendar)  
+[Assignments](https://sso.canvaslms.com/courses/1413912/assignments)  
+[Quizzes](https://sso.canvaslms.com/courses/1413912/quizzes)  
+[Class Discussions](https://sso.canvaslms.com/courses/1413912/discussion_topics)  
+[Grades](https://sso.canvaslms.com/courses/1413912/grades)  
+
+## Twitter Feed
+[twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"]
+";}s:7:"storage";a:6:{s:3:"key";s:20:"cpt363-basic/sidebar";s:11:"storage_key";s:23:"02.cpt363-basic/sidebar";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1591974062;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1583505710;}}s:8:"checksum";s:32:"b20affb3a8a32f54a05c4ac4f76cf835";}}}

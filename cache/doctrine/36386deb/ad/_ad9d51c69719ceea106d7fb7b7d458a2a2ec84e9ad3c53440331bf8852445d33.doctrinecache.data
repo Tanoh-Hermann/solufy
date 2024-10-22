@@ -1,0 +1,8 @@
+1592058670
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1026:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:109:"cpt363-intermediate/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/design-patterns";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:15:"Design Patterns";}s:8:"markdown";s:282:"Design Patterns  
+_General solutions for commonly occurring system design problems._
+
+*   [Patternry](http://www.patternry.com/)  
+*   [UI Patterns](http://ui-patterns.com/)  
+*   [Who Benefits From the Use of Design Patterns?](https://dzone.com/articles/who-benefits-use-design)  
+";}s:7:"storage";a:6:{s:3:"key";s:109:"cpt363-intermediate/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/design-patterns";s:11:"storage_key";s:118:"03.cpt363-intermediate/04.ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/design-patterns";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591974066;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"bbf289382b9abf4551c3474fb42c1c64";}}}

@@ -1,0 +1,12 @@
+1592058649
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":2135:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:41:"canada/shop/t-shirts/ts385-rocket-surgeon";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:18:"Rocket Doc T-Shirt";s:5:"price";d:14.99;s:10:"product_id";s:5:"ts385";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;}s:8:"markdown";s:1436:"## Aliquam lectus ipsum, condimentum vitae erat eleifend
+
+Suspendisse vestibulum, erat vestibulum ultrices blandit, tortor magna commodo orci, vel facilisis tortor felis ut leo. Nunc vehicula diam augue.
+
+===
+
+Aliquam lectus ipsum, condimentum vitae erat eleifend, lobortis pretium ante. Duis tristique, dolor sed rutrum consectetur, lorem metus vulputate sapien, ornare tincidunt urna dolor eget eros. Morbi malesuada, neque eu pellentesque vehicula, sapien mi egestas ipsum, ut malesuada massa lorem a magna. Proin pharetra vehicula ante a tristique. Suspendisse molestie ligula et libero consectetur, nec vulputate purus pellentesque. Praesent blandit dignissim quam quis dignissim. Vivamus volutpat urna at ultricies ultrices. Vestibulum non magna porta, convallis eros et, lobortis elit. Aliquam rhoncus bibendum est sed dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent semper odio sit amet mi consequat pulvinar.
+
+Quisque molestie id eros et semper. Fusce vel dapibus nisl. Nunc in eros tincidunt, vehicula libero sed, imperdiet tellus. Suspendisse eget ornare mauris, eu venenatis est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse semper, mi ut pulvinar aliquam, nisi sapien hendrerit ipsum, vitae ullamcorper orci leo sit amet enim. Donec ipsum turpis, porttitor in orci in, aliquam mollis tortor. Sed ac sem in leo ultricies commodo.
+
+";}s:7:"storage";a:6:{s:3:"key";s:41:"canada/shop/t-shirts/ts385-rocket-surgeon";s:11:"storage_key";s:50:"09.Canada/02.shop/01.t-shirts/ts385-rocket-surgeon";s:8:"template";s:15:"snipcart_detail";s:17:"storage_timestamp";i:1591985860;s:8:"markdown";a:1:{s:0:"";a:1:{s:15:"snipcart_detail";i:1590709968;}}s:8:"checksum";s:32:"acc053639243c3578eada62ca9426b79";}}}

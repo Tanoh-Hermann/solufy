@@ -1,0 +1,28 @@
+1592058650
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1602:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:44:"canada/trainings/presentation-list-1/transit";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:7:"Transit";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;s:26:"visibility_requires_access";b:1;s:6:"access";a:1:{s:10:"site.login";b:1;}s:11:"media_order";s:120:"container_Markus-Distelrath_Pixabay_1280.jpg,Portique-à_containers_1280.jpg,hamburg-Port_Julius-Silver_Pixabay_1280.jpg";}s:8:"markdown";s:736:"[ui-browser address="http://yoururl.org"]# Chapter 1: INTRODUCTION TO THE TRANSIT[/browser]
+
+[.text: alignment(center)]
+
+# Chapter 1: INTRODUCTION TO THE TRANSIT
+
+Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem Ipseum Lorem
+
+### Module 1: History
+
+> “A work in progress. And the possibilities are endless.”
+-- Elizabeth Eulberg
+
+---
+
+# Chapter 2: RÔLE OF THE PROVIDER
+
+My first presentation
+
+My first presentation
+
+My first presentation
+
+---
+
+# Chapter 4: RÔLE OF THE STEELMAKER
+";}s:7:"storage";a:6:{s:3:"key";s:44:"canada/trainings/presentation-list-1/transit";s:11:"storage_key";s:53:"09.Canada/03.trainings/02.presentation-list-1/transit";s:8:"template";s:12:"presentation";s:17:"storage_timestamp";i:1591985866;s:8:"markdown";a:1:{s:0:"";a:1:{s:12:"presentation";i:1591145012;}}s:8:"checksum";s:32:"1f4b0045494c851f6fc68d05899e1a44";}}}

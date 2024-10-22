@@ -1,0 +1,14 @@
+1592058659
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1162:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:51:"cote-d-ivoire/trainings/training-catalog/insurances";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:10:"Insurances";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;s:10:"child_type";s:5:"topic";}s:8:"markdown";s:400:"Insurance - Actuariat
+
+Actuarial function in Insurance Companies: organization, Techniques and Implementation Tools
+Actuarial Life: Pricing and Provisioning Techniques
+
+RISK MANAGEMENT
+
+Insurance Procurement: Procedures and Techniques for Managing Tenders and Consultations
+Fight against Insurance Fraud
+
+REINSURANCE
+
+Non-Life Reinsurance Strategy: Accounting, Management and Optimization of Programs";}s:7:"storage";a:7:{s:3:"key";s:51:"cote-d-ivoire/trainings/training-catalog/insurances";s:11:"storage_key";s:63:"04.Cote-d-Ivoire/03.trainings/01.training-catalog/03.insurances";s:8:"template";s:8:"category";s:17:"storage_timestamp";i:1591974044;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"category";i:1591056474;}}s:8:"children";a:2:{s:12:"01.actuariat";b:0;s:18:"02.risk-management";b:0;}s:8:"checksum";s:32:"60001cf7387b79aa03b74802f847e40d";}}}

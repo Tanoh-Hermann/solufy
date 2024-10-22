@@ -1,0 +1,9 @@
+1592058651
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1563:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:108:"canada/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/conceptualizing-interaction";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:27:"Conceptualizing Interaction";}s:8:"markdown";s:810:"Conceptualizing Interaction  
+_Exploring what interaction model will be presented to the user through the use of structure, behavior, and visuals._
+
+*   [Book Review: The Design of Everyday Things](http://jonathannicol.com/blog/2011/05/14/book-review-the-design-of-everyday-things/)  
+*   [Conceptual models: begin by designing what to design (PDF)](http://davidlamas.files.wordpress.com/2010/03/jeff-johnson.pdf)  
+*   [Conceptual Design for Interactive Systems: Designing for Performance and User Experience](http://www.uxmatters.com/mt/archives/2015/12/conceptual-design-for-interactive-systems-designing-for-performance-and-user-experience.php)  
+*   [Specifying what we want the user experience to be - the designer's model](https://www-01.ibm.com/software/ucd/designconcepts/threemodels/designer.html)  
+";}s:7:"storage";a:6:{s:3:"key";s:108:"canada/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/conceptualizing-interaction";s:11:"storage_key";s:117:"09.Canada/08.ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/conceptualizing-interaction";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591985872;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"872f218ff26ca532dab8f95c552a2809";}}}
