@@ -1,0 +1,23 @@
+1592058646
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1713:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"canada/home/module-05";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:19:"Week 5 (Jun 6 - 12)";s:9:"published";b:1;s:4:"date";s:16:"06-06-2018 00:00";s:19:"hide_from_post_list";b:1;s:23:"hide_git_sync_repo_link";b:1;s:19:"header_image_credit";s:24:"Luca Mascaro, Flickr.com";s:23:"header_image_creditlink";s:80:"https://www.flickr.com/photos/lucamascaro/4642289926/in/album-72157624141181008/";s:21:"header_image_alt_text";s:17:"Usability testing";}s:8:"markdown";s:884:"## How to plan, conduct, and summarize usability tests?  
+[Testing Methods](../../presentations/module-05#/module-05-4?target=_blank)
+[Conducting Tests](../../presentations/module-05#/module-05-5?target=_blank)  
+[Analysis and Reporting](../../presentations/module-05#/module-05-6?target=_blank)  
+
+===
+
+## **How to plan, conduct, and summarize usability tests?**
+
+### Summaries and Questions  
+[Jun 6th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519522)
+
+### Presented Slides  
+[presentation="cpt363-advanced/presentations/module-05"]
+
+### Supplemental Materials  
+[Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
+[plugin:youtube](https://www.youtube.com/watch?v=QckIzHC99Xc)
+
+### Required Reading  
+[embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]
+";}s:7:"storage";a:6:{s:3:"key";s:21:"canada/home/module-05";s:11:"storage_key";s:27:"09.Canada/01.home/module-05";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591985856;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505714;}}s:8:"checksum";s:32:"9ae63f80fabf47012502dc79e9ad85c3";}}}

@@ -1,0 +1,7 @@
+1592058675
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1507:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:41:"france/shop/geek-toys/pt221-stuffy-turret";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:13:"Stuffy Turret";s:5:"price";d:19.99;s:10:"product_id";s:5:"pt221";}s:8:"markdown";s:900:"#### Duis aliquam, diam ac mollis semper, tortor mauris tincidunt orci
+
+Non commodo ligula libero vitae magna. Duis sed nunc nunc. Praesent pretium nec lectus sit amet elementum. Aenean rhoncus at libero eu elementum. Integer libero enim, cursus ac enim non, tincidunt ornare diam. Quisque orci purus, porta pellentesque porta quis, eleifend ullamcorper massa. Mauris gravida orci ante, sit amet malesuada felis placerat eget.
+
+Nulla non pretium metus. Etiam eget scelerisque massa. Praesent at lacinia eros, nec tincidunt eros. Proin at urna condimentum, elementum odio eu, feugiat risus. Mauris quis hendrerit nunc. Quisque at metus vel mauris dignissim pellentesque. Aenean tempor lectus odio. Morbi iaculis mi eu ante accumsan pellentesque. Nunc tempor a massa nec feugiat. Vestibulum quis sem adipiscing, rutrum odio id, mollis leo. Morbi in justo lobortis, vehicula risus id, vulputate tortor.
+";}s:7:"storage";a:6:{s:3:"key";s:41:"france/shop/geek-toys/pt221-stuffy-turret";s:11:"storage_key";s:50:"05.France/02.shop/02.geek-toys/pt221-stuffy-turret";s:8:"template";s:15:"snipcart_detail";s:17:"storage_timestamp";i:1591973995;s:8:"markdown";a:1:{s:0:"";a:1:{s:15:"snipcart_detail";i:1589492748;}}s:8:"checksum";s:32:"a38a6d3505f19c28af84deb93198bb64";}}}

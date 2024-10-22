@@ -1,0 +1,21 @@
+1592058650
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":2061:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:79:"canada/trainings/training-catalog/transport-logistics-customs/import-management";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:12:{s:5:"title";s:17:"Import management";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;s:11:"media_order";s:43:"hamburg-Port_Julius-Silver_Pixabay_1280.jpg";s:12:"body_classes";s:9:"fullwidth";s:18:"twittercardoptions";s:7:"summary";s:11:"orgaenabled";b:1;s:4:"orga";a:1:{s:11:"ratingValue";d:2.5;}s:14:"productenabled";b:1;s:7:"product";a:1:{s:11:"ratingValue";d:2.5;}s:7:"content";a:2:{s:5:"items";s:14:"@self.children";s:5:"order";a:2:{s:2:"by";s:5:"title";s:3:"dir";s:3:"asc";}}}s:8:"markdown";s:920:"## **Import & Export Management**
+
+*   [Import Management](/cote-d-ivoire/shop/trainings/professional-trainings/transport-logistics-customs/import-management)
+*   [Export Management](http://www.uxmatters.com/mt/archives/2011/10/bridging-user-research-into-design.php)
+
+## **The regulation of international trade**
+
+*   [INCOTERMS 2010](http://www.uxmatters.com/mt/archives/2011/10/bridging-user-research-into-design.php)
+
+## **International trade documents**
+
+*   [Provisional invoice or pro forma](http://www.uxmatters.com/mt/archives/2011/10/bridging-user-research-into-design.php)
+*   [Commercial invoice](http://www.uxmatters.com/mt/archives/2011/10/bridging-user-research-into-design.php)
+*   [The consular invoice](http://www.uxmatters.com/mt/archives/2011/10/bridging-user-research-into-design.php)
+*   [The expense report](http://www.uxmatters.com/mt/archives/2011/10/bridging-user-research-into-design.php)
+
+
+
+
+";}s:7:"storage";a:6:{s:3:"key";s:79:"canada/trainings/training-catalog/transport-logistics-customs/import-management";s:11:"storage_key";s:94:"09.Canada/03.trainings/01.training-catalog/04.transport-logistics-customs/01.import-management";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591985865;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1591103656;}}s:8:"checksum";s:32:"e924de75d05eca92bcdb0e90306d91f0";}}}

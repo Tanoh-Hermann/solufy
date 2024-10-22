@@ -1,0 +1,7 @@
+1592058649
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1328:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:43:"canada/shop/geek-toys/ax389-creepa-backpack";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:15:"Creepa Backpack";s:5:"price";d:39.99;s:10:"product_id";s:5:"ax389";}s:8:"markdown";s:713:"#### Nullam tristique, arcu non iaculis condimentum, nulla dui luctus elit
+
+Sed vehicula tortor leo eget arcu. Nunc viverra mattis erat, non fringilla arcu elementum et. Vestibulum sit amet pulvinar justo. Ut at vulputate ipsum.
+
+Nunc magna massa, ultricies quis diam consectetur, pretium ultricies diam. Cras non sagittis turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at felis ultricies, commodo elit in, pulvinar felis. Aenean luctus faucibus mauris, quis pharetra dui cursus ut. Suspendisse tristique iaculis interdum. Aliquam dictum tempus nunc, ut semper lacus condimentum dignissim. Suspendisse quis justo ornare, pretium lectus eget, bibendum lacus. Pellentesque in mollis turpis.
+";}s:7:"storage";a:6:{s:3:"key";s:43:"canada/shop/geek-toys/ax389-creepa-backpack";s:11:"storage_key";s:52:"09.Canada/02.shop/02.geek-toys/ax389-creepa-backpack";s:8:"template";s:15:"snipcart_detail";s:17:"storage_timestamp";i:1591985860;s:8:"markdown";a:1:{s:0:"";a:1:{s:15:"snipcart_detail";i:1589492748;}}s:8:"checksum";s:32:"707058824d0b74448d0b546833128730";}}}

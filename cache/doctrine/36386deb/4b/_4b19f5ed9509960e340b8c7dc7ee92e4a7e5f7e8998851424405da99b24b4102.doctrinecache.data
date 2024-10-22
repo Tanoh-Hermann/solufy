@@ -1,0 +1,8 @@
+1592058651
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":973:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:100:"canada/ux-techniques-guide/how-to-design-for-mobile-and-multidevice-usage/responsive-html-frameworks";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:26:"Responsive HTML Frameworks";}s:8:"markdown";s:245:"Responsive HTML Frameworks  
+_HTML frameworks that support responsive web design._
+
+*   [Kube CSS Framework](http://imperavi.com/kube/)  
+*   [(Twitter) Bootstrap](http://getbootstrap.com/)  
+*   [Zurb Foundation](http://foundation.zurb.com/)  
+";}s:7:"storage";a:6:{s:3:"key";s:100:"canada/ux-techniques-guide/how-to-design-for-mobile-and-multidevice-usage/responsive-html-frameworks";s:11:"storage_key";s:109:"09.Canada/08.ux-techniques-guide/08.how-to-design-for-mobile-and-multidevice-usage/responsive-html-frameworks";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591985875;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"8ab62722535ddc73c0243318282f5e36";}}}
