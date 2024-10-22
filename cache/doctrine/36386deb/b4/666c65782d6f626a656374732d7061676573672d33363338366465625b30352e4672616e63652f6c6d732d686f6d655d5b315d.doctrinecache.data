@@ -1,0 +1,12 @@
+1592058673
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":889:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"france/lms-home";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:11:"Home in LMS";s:7:"visible";b:0;s:15:"hide_page_title";b:1;s:12:"show_sidebar";b:0;s:12:"cache_enable";b:0;s:23:"hide_git_sync_repo_link";b:1;}s:8:"markdown";s:314:"[plugin:content-inject](/home/_important-reminders)
+
+[plugin:page-inject](/home/_class-preparations)
+
+<hr>
+
+## Paul's Web Pick of the Week
+[plugin:page-inject](/all-web-picks-of-the-week/latest)
+
+[View all of Paul's Web Picks of the Week](https://sso.canvaslms.com/courses/1413912/pages/all-web-picks-of-the-week)
+";}s:7:"storage";a:6:{s:3:"key";s:15:"france/lms-home";s:11:"storage_key";s:18:"05.France/lms-home";s:8:"template";s:4:"page";s:17:"storage_timestamp";i:1591973998;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"page";i:1583505714;}}s:8:"checksum";s:32:"418b1c1f80a5a2c4a25c2b09892fb365";}}}

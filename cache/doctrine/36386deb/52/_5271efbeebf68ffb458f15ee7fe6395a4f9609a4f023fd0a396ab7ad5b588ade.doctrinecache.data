@@ -1,0 +1,7 @@
+1592058675
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1125:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:88:"france/shop/t-shirts/formation-manager-une-equipe-niveau-1/_programme/_ui-accordion-item";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:17:"UI-accordion-item";s:12:"body_classes";s:7:"modular";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;}s:8:"markdown";s:320:"1. Identifier les critères de performance d'une équipe.
+2. Formuler des objectifs efficaces.
+3. Adapter son management à l'objectif et aux caractéristiques de l'équipe.
+4. Définir un cadre de travail commun en formalisant des règles du jeu efficaces.
+* Mise en situation
+* Expérimentation d'un travail d'équipe.";}s:7:"storage";a:6:{s:3:"key";s:88:"france/shop/t-shirts/formation-manager-une-equipe-niveau-1/_programme/_ui-accordion-item";s:11:"storage_key";s:103:"05.France/02.shop/01.t-shirts/01.formation-manager-une-equipe-niveau-1/02._Programme/_UI-accordion-item";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591973994;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1590712368;}}s:8:"checksum";s:32:"5e8e7aa0330ca62882b1a752a3f08608";}}}

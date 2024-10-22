@@ -1,0 +1,5 @@
+1592058666
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":694:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"cpt363-basic/lms-home";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:11:"Home in LMS";s:7:"visible";b:0;s:15:"hide_page_title";b:1;s:12:"show_sidebar";b:0;s:12:"cache_enable";b:0;s:23:"hide_git_sync_repo_link";b:1;}s:8:"markdown";s:101:"[plugin:content-inject](/home/_important-reminders)
+
+[plugin:page-inject](/home/_class-preparations)
+";}s:7:"storage";a:6:{s:3:"key";s:21:"cpt363-basic/lms-home";s:11:"storage_key";s:24:"02.cpt363-basic/lms-home";s:8:"template";s:4:"page";s:17:"storage_timestamp";i:1591974059;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"page";i:1583505710;}}s:8:"checksum";s:32:"14e2b668d7fba552eea20999e9c9ee5b";}}}

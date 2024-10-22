@@ -1,0 +1,8 @@
+1592058665
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1194:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:100:"cote-d-ivoire/ux-techniques-guide/what-is-usability-and-user-experience-design/user-interface-design";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:21:"User Interface Design";}s:8:"markdown";s:471:"User Interface Design  
+_The design of the communication between the user and a system._
+
+*   [Universal Model of a User Interface (PDF)](http://www.openeye-training.com/downloads/UIModel.pdf)  
+*   [User Interface Design, Getting the Basics Right](http://www.uxbooth.com/articles/user-interface-design-getting-the-basics-right/)  
+*   [What UI really is (and how UX confuses matters)](http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-confuses-matters)  
+";}s:7:"storage";a:6:{s:3:"key";s:100:"cote-d-ivoire/ux-techniques-guide/what-is-usability-and-user-experience-design/user-interface-design";s:11:"storage_key";s:109:"04.Cote-d-Ivoire/08.ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-interface-design";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591974050;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"c9c3a0dbc7b87be6e5db239166590b24";}}}

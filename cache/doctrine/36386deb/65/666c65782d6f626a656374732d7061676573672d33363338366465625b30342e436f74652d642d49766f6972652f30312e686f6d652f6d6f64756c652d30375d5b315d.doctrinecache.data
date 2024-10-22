@@ -1,0 +1,23 @@
+1592058655
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1818:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:28:"cote-d-ivoire/home/module-07";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:20:"Week 7 (Jun 20 - 26)";s:9:"published";b:0;s:4:"date";s:16:"20-06-2018 00:00";s:19:"hide_from_post_list";b:0;s:23:"hide_git_sync_repo_link";b:1;s:19:"header_image_credit";s:27:"Blake Patterson, Flickr.com";s:23:"header_image_creditlink";s:52:"https://www.flickr.com/photos/blakespot/16230041026/";s:21:"header_image_alt_text";s:33:"iOS family of devices pile (2015)";}s:8:"markdown";s:976:"## How to design for mobile and multi-device usage?
+['Mobile' Design Principles](../../presentations/module-07#/module-07-4?target=_blank)  
+[Touch Interaction Design](../../presentations/module-07#/module-07-4?target=_blank)  
+[Responsive Web Design (RWD)](../../presentations/module-07#/module-07-4?target=_blank)  
+
+===
+
+## **How to design for mobile and multi-device usage?**
+
+### Summaries and Questions  
+[Jun 20th Class One-minute Summaries](https://canvas.sfu.ca/courses/38847/assignments/292817)
+
+### Presented Slides  
+[presentation="cpt363-advanced/presentations/module-07"]
+
+### Handouts
+[One-Page Touch Interaction Design Checklist](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Touch%20Interaction%20Checklist)  
+[Responsive Web Design Sketch Sheets](http://jeremypalford.com/wp-content/uploads/2013/07/JPA-Responsive-Web-Design-Sketch-Sheets.zip)  
+
+### Required Reading  
+[embedly url="http://blog.invisionapp.com/mobile-first-mobile-only/"]
+";}s:7:"storage";a:6:{s:3:"key";s:28:"cote-d-ivoire/home/module-07";s:11:"storage_key";s:34:"04.Cote-d-Ivoire/01.home/module-07";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1591974048;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1583505712;}}s:8:"checksum";s:32:"4beaeb6f92d80c8d75564c8a92ed0c1a";}}}

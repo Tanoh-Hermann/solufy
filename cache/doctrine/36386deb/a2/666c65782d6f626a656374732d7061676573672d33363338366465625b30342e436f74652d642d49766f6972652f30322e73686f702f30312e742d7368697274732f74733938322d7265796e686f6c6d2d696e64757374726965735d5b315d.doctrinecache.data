@@ -1,0 +1,11 @@
+1592058657
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1520:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:53:"cote-d-ivoire/shop/t-shirts/ts982-reynholm-industries";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:27:"Reynholm Industries T-Shirt";s:5:"price";d:14.99;s:10:"product_id";s:5:"ts982";}s:8:"markdown";s:863:"## Nullam tristique, arcu non iaculis condimentum, nulla dui luctus elit
+
+Morbi rutrum nunc urna, eu pharetra risus mollis id. Proin blandit feugiat porttitor. Duis tincidunt imperdiet justo, nec gravida enim tempus ut.
+
+===
+
+Sed vehicula tortor leo eget arcu. Nunc viverra mattis erat, non fringilla arcu elementum et. Vestibulum sit amet pulvinar justo. Ut at vulputate ipsum.
+
+Nunc magna massa, ultricies quis diam consectetur, pretium ultricies diam. Cras non sagittis turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at felis ultricies, commodo elit in, pulvinar felis. Aenean luctus faucibus mauris, quis pharetra dui cursus ut. Suspendisse tristique iaculis interdum. Aliquam dictum tempus nunc, ut semper lacus condimentum dignissim. Suspendisse quis justo ornare, pretium lectus eget, bibendum lacus. Pellentesque in mollis turpis.
+";}s:7:"storage";a:6:{s:3:"key";s:53:"cote-d-ivoire/shop/t-shirts/ts982-reynholm-industries";s:11:"storage_key";s:62:"04.Cote-d-Ivoire/02.shop/01.t-shirts/ts982-reynholm-industries";s:8:"template";s:15:"snipcart_detail";s:17:"storage_timestamp";i:1591974034;s:8:"markdown";a:1:{s:0:"";a:1:{s:15:"snipcart_detail";i:1589492748;}}s:8:"checksum";s:32:"74e8b6d55de2ff1aa810b79f2e4f15aa";}}}

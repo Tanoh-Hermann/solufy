@@ -1,0 +1,7 @@
+1592058676
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1061:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:112:"france/ux-techniques-guide/how-to-design-products-for-how-people-think-learn-and-feel/design-principles-platform";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:26:"Platform Design Principles";}s:8:"markdown";s:297:"Platform Design Principles  
+_A high-level of advice for general platform design decisions._
+
+*   [First Principles of Interaction Design](http://www.asktog.com/basics/firstPrinciples.html)  
+*   [Windows User Experience Design Principles](http://msdn.microsoft.com/en-us/library/dd834141.aspx)  
+";}s:7:"storage";a:6:{s:3:"key";s:112:"france/ux-techniques-guide/how-to-design-products-for-how-people-think-learn-and-feel/design-principles-platform";s:11:"storage_key";s:121:"05.France/08.ux-techniques-guide/06.how-to-design-products-for-how-people-think-learn-and-feel/design-principles-platform";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591974003;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"7eaf1e539bd2019d52d6836b33585e39";}}}

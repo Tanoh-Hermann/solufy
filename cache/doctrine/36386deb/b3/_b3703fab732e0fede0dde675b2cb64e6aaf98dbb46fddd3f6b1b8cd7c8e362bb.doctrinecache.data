@@ -1,0 +1,8 @@
+1592058653
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1230:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:101:"canada/ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-stories";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:12:"User Stories";}s:8:"markdown";s:513:"User Stories  
+_Brief narratives that describe on user interactions with a system, with a focus on the value gained from such interactions._
+
+*   [Advantages of User Stories for Requirements](http://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
+*   [How Expanded User Stories Help Us Fix Existing Interfaces](http://www.erinlynnyoung.com/post/47756875821/expanded-user-stories)  
+*   [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)  
+";}s:7:"storage";a:6:{s:3:"key";s:101:"canada/ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-stories";s:11:"storage_key";s:110:"09.Canada/08.ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-stories";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591985872;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"1ef3f35895cb59132b29053f80154e3f";}}}

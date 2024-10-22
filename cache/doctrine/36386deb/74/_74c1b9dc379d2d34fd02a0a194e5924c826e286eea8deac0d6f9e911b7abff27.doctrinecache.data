@@ -1,0 +1,11 @@
+1592058677
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1465:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:99:"france/ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:22:"Usability Test Surveys";}s:8:"markdown";s:746:"Usability Test Surveys  
+_Post-session usability test surveys which have been shown to be valid and reliable._
+
+*   [After-Scenario Questionnaire](http://hcibib.org/perlman/question.cgi?form=ASQ)  
+*   [If you could only ask one question, use this one (SEQ)](http://www.measuringusability.com/blog/single-question.php)  
+*   [Recent Advances with the System Usability Scale](https://measuringu.com/sus-advances/)  
+*   [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)  
+*   [Two Simple Post-Test Questions](http://www.uie.com/brainsparks/2006/03/23/two-simple-post-test-questions/)  
+*   [When A Survey Is The Better Research Method](http://www.measuringu.com/blog/better-survey.php)
+";}s:7:"storage";a:6:{s:3:"key";s:99:"france/ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys";s:11:"storage_key";s:108:"05.France/08.ux-techniques-guide/10.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys";s:8:"template";s:5:"topic";s:17:"storage_timestamp";i:1591974005;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"topic";i:1583505712;}}s:8:"checksum";s:32:"c4a24de3c5a12576a871a5a93c1f06ff";}}}
